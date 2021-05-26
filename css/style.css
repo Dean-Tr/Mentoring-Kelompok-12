@@ -1,0 +1,104 @@
+.slider h3,
+.slider h5,
+.clients h3{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+.nav-wrapper img {
+	width: 87px;
+}
+.parallax-container{
+	height: 300px;
+}
+
+.parallax {
+	filter: grayscale(1);
+	opacity: 0.8 !important;
+}
+
+.client img{
+	max-width: 150px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+section, footer{
+	padding: 0 0;
+}
+
+/* Navbar */
+#nav nav {
+	height: 70px;
+	padding-left: 300px;
+}
+
+#nav a {
+	font-size: 15px;
+}
+
+#nav .li {
+	padding-left: 200px;
+}
+
+/* Services */
+#services {
+	font-family: 'Pacifico', cursive;
+	margin: -30px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	margin-bottom: -70px;
+	background-image: url(../img/portfolio/background.png);
+}
+
+/* About */
+#about {
+	margin: -30px 0 -20px 0;
+	padding: 30px 0 10px;
+	font-family: 'Pacifico', cursive;
+	background-image: url(../img/portfolio/background.png);
+}
+
+#about img {
+	margin-left: -100px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+#about p {
+	padding-top: 20px;
+	color: white;
+}
+
+/* Wanted */
+#wanted {
+	height: 35%;
+	margin-top: 70px;
+	padding-top: 20px;
+}
+
+#wanted h3 {
+	font-family: 'Pacifico', cursive;
+	padding-bottom: 10px;
+	margin-top: 40px;
+}
+
+#wanted .row {
+	height: 0;
+}
+
+/* New Arrival */
+#newarrival {
+	padding-top: 10px;
+	padding-bottom: 30px;
+	background-image: url(../img/portfolio/background.png);
+}
+#newarrival h3 {
+	font-family: 'Pacifico', cursive;
+}
+
+#footer {
+	margin-bottom: -15px;
+}
+
+#footer p {
+	margin-left: 560px;
+	font-size: 25px;
+}
